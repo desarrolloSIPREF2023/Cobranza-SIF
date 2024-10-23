@@ -52,17 +52,9 @@ export default {
     };
   },
   methods: {
-        /* loginWithEnter() { this.datos.signIn() },
-        limitCharts(chars) {
-            this.phone = `${chars}`
-            if(this.phone > 10) {
-                this.datos.number = this.phone.slice(0, 10)
-            }
-        } */
     }
 };
 </script>
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1,
 h2 {
